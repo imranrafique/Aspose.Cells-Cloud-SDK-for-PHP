@@ -1,5 +1,7 @@
-# Aspose.Cells_Cloud_SDK_For_PHP
-Aspose.Cells for Cloud is a Cloud API to work with Microsoft Excel and OpenOffice SpreadSheet files. This is the repository for Aspose.Cells Cloud SDK for PHP. Using this SDK, Aspose.Cells Cloud APIs can be easily used in PHP applications.
+# Aspose.Cells Cloud SDK for PHP
+Aspose.Cells for Cloud is a REST API that helps you create, manipulate and convert spreadsheets in the cloud. Developers can convert Excel XLS and XLSX spreadsheets to different formats like PDF, HTML, ODS, XPS, CSV, TIFF and others.
+
+This repository contains Aspose.Cells Cloud SDK for PHP. This SDK allows you to work with Aspose.Cells Cloud REST APIs in your PHP applications quickly and easily.
 
 Installation
 ----------------------------------
