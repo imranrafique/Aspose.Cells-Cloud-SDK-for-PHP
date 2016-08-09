@@ -3,25 +3,10 @@ Aspose.Cells for Cloud is a REST API that helps you create, manipulate and conve
 
 This repository contains Aspose.Cells Cloud SDK for PHP. This SDK allows you to work with Aspose.Cells Cloud REST APIs in your PHP applications quickly and easily.
 
-Installation
-----------------------------------
+## Resources
 
-Add the following line to your composer.json file:
-
-```json
-// composer.json
-{
-    require: {
-        "aspose/cells-sdk-php": "dev-master"
-    }
-}
-```
-
-Install the new dependencies by running `composer update` from the directory where your composer.json file is located.
-
-Start a Free Trial Today
-------------------------
-
-Start a free trial today – all you need is to [sign up](https://cloud.aspose.com/SignUp) with Aspose for Cloud service. Once you have signed up, you are ready to try powerful file processing features offered by Aspose for Cloud.
-
-
+* **Website:** [www.aspose.com](http://www.aspose.com)
+* **Product Home:** [Aspose.Cells for Cloud](http://www.aspose.com/products/cells/cloud)
+* **Documentation:** [Aspose.Cells for Cloud Documentation](http://www.aspose.com/docs/display/cellscloud/Home)
+* **Forum:** [Aspose.Cells for Cloud Forum](http://www.aspose.com/community/forums/aspose.cells-product-family/19/showforum.aspx)
+* **Blog:** [Aspose.Cells for Cloud Blog](http://www.aspose.com/blogs/aspose-products/aspose-cells-product-family.html)
